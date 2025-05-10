@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">helloWorld</string>
+    <string name="est_s_de_acuerdo">¿Estás de acuerdo?</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="escribe_algo">Escribe algo...</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="imprimir">Imprimir</string>
+    <string name="escribe_un_mensaje">Escribe un mensaje</string>
+    <string name="bot_n_imagen">Botón imagen</string>
+    <string name="ingresa_un_n_mero">Ingresa un número</string>
+    <string name="salir">Salir</string>
+</resources>
